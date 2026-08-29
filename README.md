@@ -1,23 +1,15 @@
-# <p align="center"><img src="logo.png" alt="EPI Fácil" width="400"/></p>
-
 <p align="center">
-  <img src="https://shields.io" alt="Node.js">
-  <img src="https://shields.io" alt="Express">
-  <img src="https://shields.io" alt="Prisma">
-  <img src="https://shields.io" alt="PostgreSQL">
-  <img src="https://shields.io" alt="Tailwind CSS">
-  <img src="https://shields.io" alt="JavaScript">
+  <img src="logo.png" alt="EPI Fácil" width="400"/>
 </p>
 
-<p align="center"><b>Versão atual: 3.0</b></p>
-
 # Sistema EPI Fácil
-![Node.js](https://img.shields.io/badge/Node.js-22.x-green)
-![Express](https://img.shields.io/badge/Express-5.x-black)
-![Prisma](https://img.shields.io/badge/Prisma-ORM-blue)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-4.x-38BDF8)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+
+![Node.js](https://shields.io)
+![Express](https://shields.io)
+![Prisma](https://shields.io)
+![PostgreSQL](https://shields.io)
+![Tailwind CSS](https://shields.io)
+![JavaScript](https://shields.io)
 
 **Versão atual:** 3.0
 
