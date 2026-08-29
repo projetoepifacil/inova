@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="logo.png" alt="EPI Fácil" width="400"/>
-</p>
-
 # Sistema EPI Fácil
-
 ![Node.js](https://shields.io)
 ![Express](https://shields.io)
 ![Prisma](https://shields.io)
@@ -14,6 +9,7 @@
 **Versão atual:** 3.0
 
 Sistema EPI é uma aplicação de controle de equipamentos de proteção individual (EPIs) com backend em Node.js, Express e Prisma, e frontend em páginas estáticas HTML/JavaScript.
+
 
 ## Visão Geral
 
